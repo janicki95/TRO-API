@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/plugins/TRO_API" >
+        <file>icon.png</file>
+    </qresource>
+	<qresource prefix="/plugins/TRO_API" >
+        <file>pointer.png</file>
+    </qresource>
+</RCC>

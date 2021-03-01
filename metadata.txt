@@ -5,15 +5,15 @@
 [general]
 name=BC TRO API
 qgisMinimumVersion=3.0
-description=Links to Buchanan Computing TRO API
+description=The plugin links to the BC TRO API, allowing users to request and view live Traffic Regulation Orders (TRO) in QGIS. The data covers several authorites in the UK and is available three TRO formats BCNative, Alliance for Parking Data Standards (APDS) or TRO-D.
 version=0.1
 author=Buchanan Computing
 email=patryk.janicki@buchanancomputing.co.uk
 
 about=Access to BC TRO API.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/janicki95/TRO-API/issues
+repository=https://github.com/janicki95/TRO-API
 # End of mandatory metadata
 
 # Recommended items:
@@ -25,7 +25,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=http://homepage
+homepage=https://www.trafficorders.uk/api.html
 category=Plugins
 icon=icon.png
 # experimental flag
